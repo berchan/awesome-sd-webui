@@ -20,6 +20,15 @@ A curated list of awesome sd-webui extensions and libraries
 - [Additional Networks for generating images](https://github.com/kohya-ss/sd-webui-additional-networks) - This extension is for AUTOMATIC1111's Stable Diffusion web UI, allows the Web UI to add some networks (e.g. LoRA) to the original Stable Diffusion model to generate images. Currently LoRA is supported. The addition is on-the-fly, the merging is not required.
 - [sd-webui-oldsix_prompt](https://github.com/thisjam/sd-webui-oldsix-prompt) - sd-webui Chinese prompt word plugin.
 - [Text2video](https://github.com/kabachuha/sd-webui-text2video) - Auto1111 extension implementing text2video diffusion models (like ModelScope or VideoCrafter) using only Auto1111 webui dependencies.
+- [Cutting Off Prompt Effect](https://github.com/hnmr293/sd-webui-cutoff) - This is an extension for stable-diffusion-webui which limits the tokens' influence scope.
+- [StableSR](https://github.com/pkuliyi2015/sd-webui-stablesr) - StableSR for Stable Diffusion WebUI - Ultra High-quality Image Upscaler.
+- [Inpaint Anything](https://github.com/Uminosachi/sd-webui-inpaint-anything) - Inpaint Anything extension performs stable diffusion inpainting on a browser UI using any mask selected from the output of Segment Anything.
+- [Local Latent upscaLer](https://github.com/hnmr293/sd-webui-llul) - This is an extension for stable-diffusion-webui which lets you to upscale latents locally.
+- [DreamArtist](https://github.com/IrisRainbowNeko/DreamArtist-sd-webui-extension) - DreamArtist for Stable-Diffusion-webui extension.
+- [LightDiffusionFlow](https://github.com/Tencent/LightDiffusionFlow) - This extension is developed for AUTOMATIC1111's Stable Diffusion web UI that provides import/export options for parameters.
+- [Infinite Zoom](https://github.com/v8hid/infinite-zoom-automatic1111-webui) - This is an extension for the AUTOMATIC1111's (and Vladmandic´s) webui that allows users to create infinite zoom effect videos using stable diffusion outpainting method.
+- [SuperMerger](https://github.com/hako-mikan/sd-webui-supermerger) - This extension allows merged models to be loaded as models for image generation without saving them.
+- [FaceSwapLab](https://github.com/glucauze/sd-webui-faceswaplab) - FaceSwapLab is an extension for Stable Diffusion that simplifies face-swapping.
 - [Civitai](https://github.com/civitai/sd_civitai_extension) - All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI.
 - [Rembg](https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg) - Removes backgrounds from pictures. Extension for webui.
 - [Tagcomplete](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete) -  Booru style tag autocompletion for AUTOMATIC1111's Stable Diffusion web UI 
